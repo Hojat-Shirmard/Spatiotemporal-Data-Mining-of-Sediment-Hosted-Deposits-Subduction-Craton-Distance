@@ -1,0 +1,8 @@
+name: subduction
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - gplately
+  - matplotlib
+prefix: C:\Users\hshi9735\AppData\Local\anaconda3\envs\subduction
